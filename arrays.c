@@ -22,6 +22,6 @@ int main(){
                 break; 
             count++;
         }
-        printf("%d",count);
+        printf("number is %d",count);
     }
 }
